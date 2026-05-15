@@ -12,9 +12,9 @@ export default function Home() {
   ];
 
   return (
-    <main className="min-h-screen bg-black text-white">
+   <main className="min-h-screen bg-gradient-to-b from-black to-gray-900 text-white">
       <section className="text-center py-20 px-6">
-        <h1 className="text-6xl font-bold text-yellow-400 mb-6">
+       <h1 className="text-6xl font-bold text-pink-400 mb-6">
           De Soco Alta Calidad
         </h1>
 
